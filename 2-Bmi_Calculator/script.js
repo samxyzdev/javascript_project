@@ -22,3 +22,5 @@ form.addEventListener("submit", function (e) {
     }
   }
 });
+
+const randomNumber = parseInt(Math.random() * 100 + 1);
